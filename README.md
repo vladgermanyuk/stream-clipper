@@ -40,7 +40,7 @@ Requirements: macOS (Apple Silicon recommended) or Linux, Python 3.10+, ~3 GB of
 [Claude Code](https://claude.com/claude-code).
 
 ```bash
-git clone <this repo> ~/.claude/skills/stream-clipper
+git clone https://github.com/vladgermanyuk/stream-clipper ~/.claude/skills/stream-clipper
 cd ~/.claude/skills/stream-clipper
 ./setup.sh
 ```
