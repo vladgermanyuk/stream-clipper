@@ -1,0 +1,12 @@
+# your streams, clips and downloads
+work/
+refs/
+# models are downloaded by setup.sh
+models/*
+!models/.gitkeep
+# environments
+.venv/
+.align-venv/
+__pycache__/
+*.pyc
+.DS_Store
